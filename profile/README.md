@@ -1,8 +1,11 @@
 <p align="right"><img src="https://komarev.com/ghpvc/?username=clover-font&label=Profile%20views&color=0e75b6&style=flat" alt="clover-font"/> </p>
 
-<h1 align="center">Klee Extended / Clover 白詰</h1>
+<h1 align="center">Klee Extended / Clover / 白詰</h1>
 
-_A series of forks of Klee One currently in development by [@furuochen-dev](https://github.com/furuochen-dev)_
+<h3 align="center">A series of forks of Klee One currently in development by <a href="https://github.com/furuochen-dev">@furuochen-dev</a></h3>
+
+
+_Yes._
 
 ## Upstreams tree diagram:
 
